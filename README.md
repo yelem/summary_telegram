@@ -23,12 +23,12 @@ A smart, serverless Python bot that acts as your personal news editor. It reads 
 git clone [https://github.com/yelem/summary_telegram.git](https://github.com/yelem/summary_telegram.git)
 cd summary_telegram
 
-2. Install dependencies:
+**2. Install dependencies:**
 It is recommended to use a virtual environment.
 
 pip install -r requirements.txt
 
-3. Get your API Keys:
+**3. Get your API Keys:**
 
 Telegram API_ID & API_HASH: Get them from my.telegram.org.
 
@@ -36,7 +36,7 @@ Bot Token: Create a bot via @BotFather in Telegram.
 
 Mistral API Key: Get your free API key from console.mistral.ai.
 
-4. Configuration:
+**4. Configuration:**
 Open summary_telegram.py and replace the placeholder variables in the # SETTINGS block with your actual keys and target channels.
 
 Python
