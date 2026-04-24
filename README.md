@@ -55,5 +55,9 @@ Bash
 python summary_telegram.py
 The script will authenticate, parse the latest posts from your selected channels, process them through Mistral AI, send the digest to your DMs, and exit automatically.
 
+## Acknowledgments
+* **Author:** Yehor (@yelem)
+* **AI Assistant:** Developed with the assistance of Google Gemini for logic structuring, code optimization, and debugging.
+
 License
 MIT License
